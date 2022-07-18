@@ -1,7 +1,8 @@
 # markdown-lib
 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+|     Name      |     Project     |      Link                                                                                      |
+|:------------- |:--------------- |:-----------------------------------------------------------------------------------------------|
+|   Basics      |   go-reloaded   | *[Начало программирования в Go — что нужно знать?](https://golangify.com/go-beginning)         |
+|               |                 |                                                                                                |
+|               |                 |                                                                                                |
