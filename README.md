@@ -16,8 +16,8 @@
 | Maps                        |   go-reloaded               | * [Основы Go: карты (словари)](https://golang-blog.blogspot.com/2019/01/go-maps.html)                                                                 |
 |                             |                             | * [Карта — ассоциативный массив в Golang](https://golangify.com/map)                                                                                  |
 | Packages strings, bytes     |   go-reloaded               | * [Разбираемся в Go: пакеты bytes и strings](https://habr.com/ru/post/307554/)                                                                        |
-|                             |                             | * [Go_Documentation:strings](https://pkg.go.dev/strings                                                                                               |
-|                             |                             | * [Go_Documentation::bytes](https://pkg.go.dev/bytes)                                                                                                 |
+|                             |                             | * [Go_Documentation:strings](https://pkg.go.dev/strings)                                                                                              |
+|                             |                             | * [Go_Documentation:bytes](https://pkg.go.dev/bytes)                                                                                                  |
 | Package                     |    ascii-art                | * [Введение в систему модулей Go](https://habr.com/ru/post/421411/)                                                                                   |
 |                             |                             | * [Как писать Go-пакеты](https://habr.com/ru/company/ruvds/blog/464289/)                                                                              |
 |                             |                             | * [Chapter 4. Packages](https://www.miek.nl/go/#packages)                                                                                             |
@@ -47,9 +47,9 @@
 |                             |                             | * [DockerDocs:docker compose](https://docs.docker.com/engine/reference/commandline/compose/)                                                          |
 |                             |                             | * [Docker Volumes - Persisting Data using Data Volumes in Docker](https://www.toolsqa.com/docker/docker-volume/)                                      |
 | Marshal, Unmarshal JSON     |  groupie-tracker            | * [How to marshal and unmarshal JSON?](https://www.youtube.com/watch?v=ZM5tlKa-iW8)                                                                   |
-|                             |                             | * [Работа с JSON в Go](https://golang-blog.blogspot.com/2019/11/json-golang.html)                                                                                       |
+|                             |                             | * [Работа с JSON в Go](https://golang-blog.blogspot.com/2019/11/json-golang.html)                                                                     |
 |                             |                             | * [JSON в Golang — сериализация и десериализация](https://golangify.com/json)                                                                         |
-| TCP, UDP, Channels          |  net-cat                    | * [TCP и UDP | Что это такое и в чем разница?](https://www.youtube.com/watch?v=yMSJKBQINAc)                                                           |
+| TCP, UDP, Channels          |  net-cat                    | * [TCP и UDP. Что это такое и в чем разница?](https://www.youtube.com/watch?v=yMSJKBQINAc)                                                            |
 |                             |                             | * [Каналы](https://metanit.com/go/tutorial/7.2.php)                                                                                                   |
 |                             |                             | * [Каналы общения между горутинами в Golang](https://golangify.com/goroutines#kanal-go)                                                               |
 |                             |                             | * [Каналы nil в Golang ничего не делают](https://golangify.com/goroutines#kanal)                                                                      |
