@@ -16,8 +16,8 @@
 | Maps                        |   go-reloaded               | * [Основы Go: карты (словари)](https://golang-blog.blogspot.com/2019/01/go-maps.html)                                                                 |
 |                             |                             | * [Карта — ассоциативный массив в Golang](https://golangify.com/map)                                                                                  |
 | Packages strings, bytes     |   go-reloaded               | * [Разбираемся в Go: пакеты bytes и strings](https://habr.com/ru/post/307554/)                                                                        |
-|                             |                             | * [Go-Documentation:strings](https://pkg.go.dev/strings)                                                                                              |
-|                             |                             | * [Go-Documentation:bytes](https://pkg.go.dev/bytes)                                                                                                  |
+|                             |                             | * [Documentation-Go:strings](https://pkg.go.dev/strings)                                                                                              |
+|                             |                             | * [Documentation-Go:bytes](https://pkg.go.dev/bytes)                                                                                                  |
 | Package                     |    ascii-art                | * [Введение в систему модулей Go](https://habr.com/ru/post/421411/)                                                                                   |
 |                             |                             | * [Как писать Go-пакеты](https://habr.com/ru/company/ruvds/blog/464289/)                                                                              |
 |                             |                             | * [Chapter 4. Packages](https://www.miek.nl/go/#packages)                                                                                             |
@@ -36,7 +36,7 @@
 |                             |                             | * [Интерфейс http.Handler — Обработчик запросов](https://golangify.com/http-handler-interface)                                                        |
 |                             |                             | * [Маршрутизация](https://metanit.com/go/web/1.2.php)                                                                                                 |
 | Http/Https                  |  ascii-art-web              | * [HTTP или HTTPS – как работает и в чем разница?](https://www.youtube.com/watch?v=C9T_7D12URI)                                                       |
-|                             |                             | * [Go-Documentation:http](https://pkg.go.dev/net/http)                                                                                                |
+|                             |                             | * [Documentation-Go:http](https://pkg.go.dev/net/http)                                                                                                |
 |                             |                             | * [Отправка запросов по HTTP](https://metanit.com/go/tutorial/9.5.php)                                                                                |
 |                             |                             | * [Маршрутизация HTTP-запросов используя ServeMux](https://golangify.com/routing-servemux)                                                            |
 | Docker                      |  ascii-art-web-dockerize    | * [Зачем нужен и как работает Docker — ликбез](https://www.youtube.com/watch?v=KS80Knz-1Z4)                                                           |
@@ -67,7 +67,7 @@
 |                             |                             | * [LearnConcurrency](https://github.com/golang/go/wiki/LearnConcurrency)                                                                              |
 |                             |                             | * [Concurrency](https://drive.google.com/file/d/1pX0BT8FrLdh_7aeM7dMhM9_XcLC_zJAY/view?usp=sharing)                                                   |
 | Databases                   |  forum                      | * [Databases](https://drive.google.com/file/d/1rYu6DH03LZfxQqJ4VbhPZXsAAFsZZt6-/view?usp=sharing)                                                     |
-|                             |                             | * [Documentation_Postgresql](https://www.postgresql.org/docs/current/)                                                                                |
+|                             |                             | * [Documentation-Postgresql](https://www.postgresql.org/docs/current/)                                                                                |
 |                             |                             | * [PostgreSQL](https://metanit.com/go/tutorial/10.3.php)                                                                                              |
 |                             |                             | * [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)                                                                              |
 | Authentication with google  |  forum-authentication       | * [Интеграция входа через Google в ваше веб-приложение](https://developers.google.com/identity/sign-in/web/sign-in)                                   |
