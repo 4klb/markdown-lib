@@ -16,8 +16,8 @@
 | Maps                        |   go-reloaded               | * [Основы Go: карты (словари)](https://golang-blog.blogspot.com/2019/01/go-maps.html)                                                                 |
 |                             |                             | * [Карта — ассоциативный массив в Golang](https://golangify.com/map)                                                                                  |
 | Packages strings, bytes     |   go-reloaded               | * [Разбираемся в Go: пакеты bytes и strings](https://habr.com/ru/post/307554/)                                                                        |
-|                             |                             | * [Go_Documentation:strings](https://pkg.go.dev/strings)                                                                                              |
-|                             |                             | * [Go_Documentation:bytes](https://pkg.go.dev/bytes)                                                                                                  |
+|                             |                             | * [Go-Documentation:strings](https://pkg.go.dev/strings)                                                                                              |
+|                             |                             | * [Go-Documentation:bytes](https://pkg.go.dev/bytes)                                                                                                  |
 | Package                     |    ascii-art                | * [Введение в систему модулей Go](https://habr.com/ru/post/421411/)                                                                                   |
 |                             |                             | * [Как писать Go-пакеты](https://habr.com/ru/company/ruvds/blog/464289/)                                                                              |
 |                             |                             | * [Chapter 4. Packages](https://www.miek.nl/go/#packages)                                                                                             |
@@ -26,7 +26,7 @@
 |                             |                             | * [Структуры в Golang — Экспорт структур в JSON](https://golangify.com/struct)                                                                        |
 |                             |                             | * [Структуры и методы — объектно-ориентированный подход в Golang](https://golangify.com/oop)                                                          |
 |                             |                             | * [Методы в Go — Создание и использование методов в Golang](https://golangify.com/methods)                                                            |
-| IO, OS                      |    ascii-art                | * [Io, Os, Context](https://drive.google.com/file/d/1PfLhwstBSR7kZjot-8MheUrKX1TdKHo1/view?usp=sharing)                                               |
+| IO, OS                      |    ascii-art                | * [IO, OS, Context](https://drive.google.com/file/d/1PfLhwstBSR7kZjot-8MheUrKX1TdKHo1/view?usp=sharing)                                               |
 |                             |                             | * [Создание и открытие файлов](https://metanit.com/go/tutorial/8.2.php)                                                                               |
 | Testing                     |                             | * [Testing](https://drive.google.com/file/d/10fJfhhJLVX7ILpZ1SCZcFZ2glti8uB60/view?usp=sharing)                                                       |
 |                             |                             | * [Strings, errors](https://drive.google.com/file/d/1p4Dqg8mzBv44O6LbIQKszSvf_kO26MwV/view?usp=sharing )                                              |
@@ -36,7 +36,7 @@
 |                             |                             | * [Интерфейс http.Handler — Обработчик запросов](https://golangify.com/http-handler-interface)                                                        |
 |                             |                             | * [Маршрутизация](https://metanit.com/go/web/1.2.php)                                                                                                 |
 | Http/Https                  |  ascii-art-web              | * [HTTP или HTTPS – как работает и в чем разница?](https://www.youtube.com/watch?v=C9T_7D12URI)                                                       |
-|                             |                             | * [Go_Documentation:http](https://pkg.go.dev/net/http)                                                                                                |
+|                             |                             | * [Go-Documentation:http](https://pkg.go.dev/net/http)                                                                                                |
 |                             |                             | * [Отправка запросов по HTTP](https://metanit.com/go/tutorial/9.5.php)                                                                                |
 |                             |                             | * [Маршрутизация HTTP-запросов используя ServeMux](https://golangify.com/routing-servemux)                                                            |
 | Docker                      |  ascii-art-web-dockerize    | * [Зачем нужен и как работает Docker — ликбез](https://www.youtube.com/watch?v=KS80Knz-1Z4)                                                           |
