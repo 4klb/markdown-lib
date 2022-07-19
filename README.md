@@ -6,7 +6,7 @@
 |   Basics                    |   go-reloaded               | * [Начало программирования в Go — что нужно знать?](https://golangify.com/go-beginning)                                                               |
 |                             |                             | * [Основы языка Go](https://metanit.com/go/tutorial/2.1.php)                                                                                          |
 |                             |                             | * [Погружение в Google Go](https://www.youtube.com/playlistlist=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca)                                                   |
-|                             |                             | * [HalykAkademy лекция 1](https://aitube.kz/video?id=8b93f9e3-cdd2-43c1-a449-a207c69d39bb&playlistId=c6cd0a6e-f01e-42ca-9cba-c776ef95ec26)     |
+|                             |                             | * [HalykAkademy лекция 1](https://aitube.kz/video?id=8b93f9e3-cdd2-43c1-a449-a207c69d39bb&playlistId=c6cd0a6e-f01e-42ca-9cba-c776ef95ec26)            |
 |                             |                             | * [Data structures](https://drive.google.com/file/d/1N2fnD9HpmuR0Buoz8neAd95CtAuPduzw/view?usp=sharing)                                               |
 | Memory model, stack & heap  |   go-reloaded               | * [Memory model](https://drive.google.com/file/d/1Vh1rI_KkRxFkTzGWJlcMbhLy2dDZfvns/view?usp=sharing)                                                  |
 |                             |                             | * [Стэк и куча](https://www.youtube.com/watch?v=O-TvywJfo1I)                                                                                          |
@@ -67,7 +67,7 @@
 |                             |                             | * [LearnConcurrency](https://github.com/golang/go/wiki/LearnConcurrency)                                                                              |
 |                             |                             | * [Concurrency](https://drive.google.com/file/d/1pX0BT8FrLdh_7aeM7dMhM9_XcLC_zJAY/view?usp=sharing)                                                   |
 | Databases                   |  forum                      | * [Databases](https://drive.google.com/file/d/1rYu6DH03LZfxQqJ4VbhPZXsAAFsZZt6-/view?usp=sharing)                                                     |
-|                             |                             | * [Documentation_Postgresql](https://www.postgresql.org/docs/)                                                                                        |
+|                             |                             | * [Documentation_Postgresql](https://www.postgresql.org/docs/current/)                                                                                |
 |                             |                             | * [PostgreSQL](https://metanit.com/go/tutorial/10.3.php)                                                                                              |
 |                             |                             | * [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)                                                                              |
 | Authentication with google  |  forum-authentication       | * [Интеграция входа через Google в ваше веб-приложение](https://developers.google.com/identity/sign-in/web/sign-in)                                   |
